@@ -1,7 +1,8 @@
-Marco
+Mapsense Embedded Maps
 =================
 
-Marco embeds the Mapsense client on websites.
+Embedded maps allow you to embed the Mapsense client on your website.
+
 ### Resources
 
 The documentation for Marco is available in the [Mapsense API Wiki](https://github.com/mapsense/marco/wiki/Mapsense-Embedded-Maps).
