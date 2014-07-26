@@ -4,9 +4,9 @@ Marco
 Marco embeds the Mapsense client on websites.
 ### Resources
 
-[The website](http://mapsense.co) provides an overview of Mapsense, and the documentation for Marco is available in the [Github Wiki](https://github.com/mapsense/marco/wiki).
+The documentation for Marco is available in the [Github Wiki](https://github.com/mapsense/marco/wiki).
 
-Also, the `examples` directory contains helpful snippets for various use-cases.
+Also, the `examples` directory contains helpful snippets for various use-cases. [COMING SOON]
 
 ### How to view Marco on your own Github page
 TODO
