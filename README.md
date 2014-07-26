@@ -5,18 +5,7 @@ Embedded maps allow you to embed the Mapsense client on your website.
 
 ### Resources
 
-The documentation for Marco is available in the [Mapsense API Wiki](https://github.com/mapsense/marco/wiki/Mapsense-Embedded-Maps).
-
-### How to view Marco on your own Github page
-TODO
-
-### How to clone the repo
-
-To use it, clone the repository:
-
-```
-git clone git@github.com:mapsense/marco.git
-```
+The documentation is available in the [Mapsense API Wiki](https://github.com/mapsense/marco/wiki/Mapsense-Embedded-Maps).
 
 ### Contributing
 
