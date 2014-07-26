@@ -9,4 +9,4 @@ The documentation is available in the [Mapsense API Wiki](https://github.com/map
 
 ### Contributing
 
-You can contribute by submitting [issues tickets](http://github.com/mapsense/marco/issues) and proposing [pull requests](http://github.com/mapsense/marco/pulls). We're looking for help building bindings for various languages, and we're hiring!
+You can contribute by submitting [issues tickets](http://github.com/mapsense/embedded-maps/issues) and proposing [pull requests](http://github.com/mapsense/embedded-maps/pulls). We're looking for help building bindings for various languages, and we're hiring!
