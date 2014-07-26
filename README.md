@@ -5,9 +5,9 @@ Embedded maps allow you to embed the Mapsense client on your website.
 
 ### Resources
 
-The documentation is available in the [Mapsense API Wiki](https://github.com/mapsense/embedded-maps/wiki/Mapsense-Embedded-Maps).
+The documentation is available in the [Mapsense API wiki](https://github.com/mapsense/embedded-maps/wiki/Mapsense-Embedded-Maps).
 
-A live demo can be found at the [embed demo page](https://explore.mapsense.co/explore/embed/). (login required)
+A live demo can be found at the [embed demo page](https://explore.mapsense.co/explore/embed/).
 
 ### Contributing
 
